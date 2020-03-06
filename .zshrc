@@ -98,7 +98,6 @@ unsetopt BEEP
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias ll="ls -alF"
 
 # Enable solarized colors
 eval `dircolors ~/software/dircolors-solarized/dircolors.256dark`
